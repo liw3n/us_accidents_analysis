@@ -1,6 +1,8 @@
 # Programming for Big Data Group Project
 ## Dataset
 [US Accidents on Kaggle](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/data)
+
+Sampled 500k dataset: https://drive.google.com/file/d/1U3u8QYzLjnEaSurtZfSAS_oh9AT2Mn8X
 ### Overview
 There are two notebook files, namely 'traditional_US_accidents_analysis.ipynb' and 'pyspark_US_accidents_analysis.ipynb', along with the datasets 'US_Accidents_March23.csv' and 'historical_state_population_by_year.csv'. There is also a smaller sample dataset if you would like to use this when assessing the traditional implementation 'US_Accidents_March23_sampled_500k.csv'.
 
